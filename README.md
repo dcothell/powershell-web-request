@@ -175,6 +175,3 @@ The incident was reviewed and closed as a **True Positive** after confirming mal
 * Incident investigation and validation
 * Endpoint containment strategy
 * NIST SP 800-61 incident response methodology
-
-Just say the word 👌
-```
